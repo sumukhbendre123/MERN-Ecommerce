@@ -1,0 +1,64 @@
+|-- backend
+|-- desktop.ini
+|-- frontend
+    |-- my-app
+        |-- .gitignore
+        |-- index.html
+        |-- package-lock.json
+        |-- package.json
+        |-- public
+            |-- bags.jpg
+            |-- favicon.ico
+            |-- glasses.png
+            |-- index.html
+            |-- jackets.jpg
+            |-- jeans (1).jpg
+            |-- jeans.jpg
+            |-- logo192.png
+            |-- logo512.png
+            |-- manifest.json
+            |-- robots.txt
+            |-- shoes.jpg
+            |-- suits.jpg
+            |-- tshirts.jpg
+        |-- README.md
+        |-- src
+            |-- App.js
+            |-- components
+                |-- AnalyticsTab.jsx
+                |-- CartItem.jsx
+                |-- CategoryItem.jsx
+                |-- CreateProductForm.jsx
+                |-- FeaturedProducts.jsx
+                |-- GiftCouponCard.jsx
+                |-- LoadingSpinner.jsx
+                |-- Navbar.jsx
+                |-- OrderSummary.jsx
+                |-- PeopleAlsoBought.jsx
+                |-- ProductCard.jsx
+                |-- ProductsList.jsx
+            |-- index.css
+            |-- index.js
+            |-- lib
+                |-- axios.js
+            |-- logo.svg
+            |-- pages
+                |-- AdminPage.jsx
+                |-- CartPage.jsx
+                |-- CategoryPage.jsx
+                |-- HomePage.jsx
+                |-- LoginPage.jsx
+                |-- PurchaseCancelPage.jsx
+                |-- PurchaseSuccessPage.jsx
+                |-- SignUpPage.jsx
+            |-- reportWebVitals.js
+            |-- setupTests.js
+            |-- stores
+                |-- useCartStore.js
+                |-- useProductStore.js
+                |-- useUserStore.js
+        |-- vite.config.js
+|-- LICENSE
+|-- postcss.config.js
+|-- README.md
+|-- tailwind.config.js
